@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-'''Task 0's module.
-'''
+'''The module contains an addition function'''
 
 
 def add(a: float, b: float) -> float:
-    '''Adds two floating-point numbers.
-    '''
-    return a + b 
+    '''To add according to datatype and return their sum'''
+    return a + b
